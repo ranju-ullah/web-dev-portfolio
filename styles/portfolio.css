@@ -1,0 +1,48 @@
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+/* Nav Styles */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 139px;
+    margin-right: 226px;
+    margin-top: 51px;
+}
+/* shared style */
+.text-primary{
+    color: #FD6E0A;
+}
+.btn-primary{
+    font-size: 20px;
+    color: white;
+    background-color: #FD6E0A;
+    padding: 19px 36px;
+    border: 0;
+    border-radius: 6px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #474747;
+    
+}
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+}
