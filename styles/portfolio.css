@@ -46,3 +46,28 @@ nav li a{
     font-weight: 800;
     font-size: 45px;
 }
+
+/* Banner Styles */
+.banner-section{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 238px;
+    margin-right: 38px;
+}
+.banner-content{
+    width: 585px;
+    
+}
+.banner-greetings{
+    font-weight: 600px;
+    font-size: 45px;
+    color: #474747;
+}
+.banner-title{
+    font-weight: bold;
+    font-size: 85px;
+    color: #181818;
+}
+.banner-picture{
+    width: 584px;
+}
